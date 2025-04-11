@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             QuV1Theme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Zezar",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
